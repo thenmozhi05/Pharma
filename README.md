@@ -453,11 +453,11 @@ contact.html
 ```
 
 ## OUTPUT:
+![image](https://github.com/thenmozhi05/Pharma/assets/140684207/5e42edc9-56e9-439f-bae4-856896d424bd)
+![image-1](https://github.com/thenmozhi05/Pharma/assets/140684207/9714a146-59ea-4c2d-b366-63425f5fc56f)
+![image-3](https://github.com/thenmozhi05/Pharma/assets/140684207/f5e91911-16c0-4965-a313-970648c9d09a)
+![image-2](https://github.com/thenmozhi05/Pharma/assets/140684207/4c882d10-9a6c-49a3-99fb-7e5a095c902c)
 
-    ![alt text](image.png)
-    ![alt text](image-1.png)
-    ![alt text](image-2.png)
-    ![alt text](image-3.png)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
